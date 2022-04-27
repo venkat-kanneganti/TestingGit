@@ -1,0 +1,13 @@
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.exe
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.deps.json
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.runtimeconfig.json
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.runtimeconfig.dev.json
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.dll
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\bin\Debug\netcoreapp3.1\trycatch.pdb
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.AssemblyInfoInputs.cache
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.AssemblyInfo.cs
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.csproj.CoreCompileInputs.cache
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.dll
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.pdb
+D:\practice\Advance CHash\TryCatchfinally\trycatch\trycatch\obj\Debug\netcoreapp3.1\trycatch.genruntimeconfig.cache
