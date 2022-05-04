@@ -1,0 +1,14 @@
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.exe
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.deps.json
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.runtimeconfig.json
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.runtimeconfig.dev.json
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.dll
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\bin\Debug\netcoreapp3.1\DynamicType.pdb
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.csproj.AssemblyReference.cache
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.AssemblyInfoInputs.cache
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.AssemblyInfo.cs
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.csproj.CoreCompileInputs.cache
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.dll
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.pdb
+D:\practice\TestingGit\Advance CHash\DynamicType\DynamicType\obj\Debug\netcoreapp3.1\DynamicType.genruntimeconfig.cache
